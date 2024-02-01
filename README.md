@@ -34,7 +34,7 @@
 <div align="left">
   <img src="./linux.svg" height="30" alt="linux logo" title="Linux" />
   <img width="12" />
-  <img src="./nvim.svg" height="30" alt="nvim logo"  />
+  <img src="./nvim.svg" height="30" alt="nvim logo" title="NeoVim" />
   <img width="12" />
   <img src="./git.svg" height="30" alt="git logo"  />
   <img width="12" />
