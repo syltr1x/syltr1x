@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="./rust.svg" height="30" alt="rust logo" />
   <img width="12" />
-  <img src="./javascript.svg" height="30" alt="javascript logo"  />
+  <img src="./javascript.svg" height="30" alt="javascript logo" title="JavaScript" />
   <img width="12" />
   <img src="./typescript.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
