@@ -8,7 +8,7 @@
 ###
 <h2>Known Languages: </h2>
 <div align="left">
-  <img src="./python.svg" height="30" alt="python logo"  />
+  <img src="./python.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
   <img src="./bash.svg" height="30" alt="bash logo" title="Bash Scripting" />
   <img width="12" />
