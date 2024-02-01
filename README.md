@@ -25,7 +25,7 @@
 <div align="left">
   <img src="./tauri.svg" height="30" alt="tauri logo"  />
   <img width="12" />
-  <img src="./ctk.svg" height="30" alt="tauri logo"  />
+  <img src="./ctk.svg" height="30" alt="tauri logo" title="CustomTKinter" />
   <img width="12" />
 </div>
 
