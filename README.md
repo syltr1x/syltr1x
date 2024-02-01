@@ -10,7 +10,7 @@
 <div align="left">
   <img src="./python.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="./bash.svg" height="30" alt="bash logo"  />
+  <img src="./bash.svg" height="30" alt="bash logo" title="Bash Scripting" />
   <img width="12" />
   <img src="./rust.svg" height="30" alt="rust logo" title="Rust" />
   <img width="12" />
