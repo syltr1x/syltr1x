@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="./nvim.svg" height="30" alt="nvim logo" title="NeoVim" />
   <img width="12" />
-  <img src="./git.svg" height="30" alt="git logo"  />
+  <img src="./git.svg" height="30" alt="git logo" title="Git"/>
   <img width="12" />
   <img src="./bash.svg" height="30" alt="bash logo"  />
   <img width="12" />
