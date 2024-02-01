@@ -23,7 +23,7 @@
 ###
 <h2>Libraries / Frameworks: </h2>
 <div align="left">
-  <img src="./tauri.svg" height="30" alt="tauri logo"  />
+  <img src="./tauri.svg" height="30" alt="tauri logo" title="Tauri" />
   <img width="12" />
   <img src="./ctk.svg" height="30" alt="tauri logo" title="CustomTKinter" />
   <img width="12" />
