@@ -38,9 +38,9 @@
   <img width="12" />
   <img src="./git.svg" height="30" alt="git logo" title="Git" />
   <img width="12" />
-  <img src="./bash.svg" height="30" alt="bash logo" title="Bash"/>
+  <img src="./bash.svg" height="30" alt="bash logo" title="Bash" />
   <img width="12" />
-  <img src="./apache.svg" height="30" alt="apache logo"  />
+  <img src="./apache.svg" height="30" alt="apache logo" title="Apache" />
   <img width="12" />
 </div>
 
