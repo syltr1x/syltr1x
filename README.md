@@ -32,7 +32,7 @@
 ###
 <h2>Tools: </h2>
 <div align="left">
-  <img src="./linux.svg" height="30" alt="linux logo"  />
+  <img src="./linux.svg" height="30" alt="linux logo" title="Linux" />
   <img width="12" />
   <img src="./nvim.svg" height="30" alt="nvim logo"  />
   <img width="12" />
