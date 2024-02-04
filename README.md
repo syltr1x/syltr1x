@@ -21,6 +21,30 @@
 </div>
 
 ###
+<h2>Libraries / Frameworks: </h2>
+<div align="left">
+  <img src="./tauri.svg" height="30" alt="tauri logo"  />
+  <img width="12" />
+  <img src="./ctk.svg" height="30" alt="tauri logo"  />
+  <img width="12" />
+</div>
+
+###
+<h2>Tools: </h2>
+<div align="left">
+  <img src="./linux.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="./nvim.svg" height="30" alt="nvim logo"  />
+  <img width="12" />
+  <img src="./git.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="./bash.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="./apache.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+</div>
+
+###
 <div align="left">
   <a href="https://www.twitter.com/syltr1x"><img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=151515&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"/></a>
   <a href="https://www.instagram.com/syltr1x"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e4405f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
