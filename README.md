@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me <3</h3>
 <p align="left">
-<a href="https://twitter.com/syltr1x" target="_blank"><img align="center" src="x.png" alt="syltr1x" height="40" width="40" style="margin-right:1rem"/></a>
-<a href="https://instagram.com/syltr1x" target="_blank"><img align="center" src="ig.png" alt="syltr1x" height="40" width="40" style="margin-right:1rem"/></a>
+<a href="https://twitter.com/syltr1x" target="_blank"><img align="center" src="x.png" alt="syltr1x" height="40" width="40" style="margin-right:1.8rem"/></a>
+<a href="https://instagram.com/syltr1x" target="_blank"><img align="center" src="ig.png" alt="syltr1x" height="40" width="40" style="margin-right:1.8rem"/></a>
 <a href="https://www.buymeacoffee.com/syltr1x" target="_blank"><img align="center" src="cofee.png" alt="syltr1x" height="40" width="35"/></a>
 </p>
 
@@ -12,5 +12,5 @@
 <p align="left">
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="flask.png" alt="flask" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="45"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="65"/> </a>
 </p>
