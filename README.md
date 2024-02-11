@@ -3,8 +3,9 @@
 
 <h3 align="left">Connect with me <3</h3>
 <p align="left">
-<a href="https://twitter.com/syltr1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syltr1x" height="30" width="40" /></a>
-<a href="https://instagram.com/syltr1x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syltr1x" height="30" width="40" /></a>
+<a href="https://twitter.com/syltr1x" target="_blank"><img align="center" src="x.png" alt="syltr1x" height="30" width="40" /></a>
+<a href="https://instagram.com/syltr1x" target="_blank"><img align="center" src="ig.png" alt="syltr1x" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/syltr1x" target="_blank"><img align="center" src="cofee.png" alt="syltr1x" height="30" widtg="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
