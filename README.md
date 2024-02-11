@@ -11,6 +11,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a> <img src="bash.png" alt="bash" width="40" height="40" style="margin-right:1.8rem"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="py.png" alt="python" width="40" height="40"/> </a>
-<a href="https://github.com/TomSchimansky/CustomTkinter/" target="_blank" rel="noreferrer"> <img src="ctk.ico" alt="customtkinter" width="40" height="40" style="margin-right:1.8rem"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="py.png" alt="python" width="40" height="40" style="margin-right:1.8rem"/> </a>
+<a href="https://github.com/TomSchimansky/CustomTkinter/" target="_blank" rel="noreferrer"> <img src="ctk.ico" alt="customtkinter" width="40" height="40"/> </a>
 </p>
