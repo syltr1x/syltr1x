@@ -6,7 +6,7 @@
 </div>
 
 ###
-
+<h2>My programming languages: </h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -20,7 +20,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  
 </div>
 
 ###
@@ -29,6 +28,7 @@
   <a href="https://www.youtube.com/@syltr1x"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"/></a>
   <a href="https://www.instagram.com/syltr1x"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
   <a href="https://www.twitter.com/syltr1x"><img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"/></a>
+  <a href="https://www.buymeacoffee.com/syltr1x"><img src="https://img.shields.io/static/v1?message=Buy Me A Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="buymeacoffee logo"/></a>
 </div>
 
 ##
