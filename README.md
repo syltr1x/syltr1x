@@ -12,7 +12,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="./rust_white.svg" height="30" alt="rust logo" />
+  <img src="./rust.svg" height="30" alt="rust logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
