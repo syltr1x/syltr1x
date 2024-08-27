@@ -14,7 +14,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" height="30" alt="rust logo" />
+  <img src="https://rawgithubusercontent.com/syltr1x/syltr1x/rust_white.png" height="30" alt="rust logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
