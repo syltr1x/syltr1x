@@ -6,7 +6,7 @@
 </div>
 
 ###
-<h2>My programming languages: </h2>
+<h2>Known languages: </h2>
 <div align="left">
   <img src="./python.svg" height="30" alt="python logo"  />
   <img width="12" />
