@@ -8,15 +8,15 @@
 ###
 <h2>Known Languages: </h2>
 <div align="left">
-  <img src="./python.svg" height="30" alt="python logo" title="Python" />
+  <img src="./rust.svg" height="30" alt="rust logo" title="Rust" />
   <img width="12" />
   <img src="./bash.svg" height="30" alt="bash logo" title="Bash Scripting" />
-  <img width="12" />
-  <img src="./rust.svg" height="30" alt="rust logo" title="Rust" />
   <img width="12" />
   <img src="./javascript.svg" height="30" alt="javascript logo" title="JavaScript" />
   <img width="12" />
   <img src="./typescript.svg" height="30" alt="typescript logo" title="TypeScript" />
+  <img width="12" />
+  <img src="./python.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
 </div>
 
