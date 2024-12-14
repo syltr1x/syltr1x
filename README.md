@@ -49,4 +49,5 @@
 <div align="left">
   <a href="https://www.twitter.com/syltr1x"><img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=151515&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"/></a>
   <a href="https://www.instagram.com/syltr1x"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e4405f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+  <a href="https://www.reddit.com/user/syltr1x"><img src="https://img.shields.io/static/v1?message=Reddit&logo=Reddit&label=&color=ff4300&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo"/></a>
 </div>
