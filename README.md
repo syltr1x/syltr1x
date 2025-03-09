@@ -11,13 +11,11 @@
 <div align="left">
   <img src="./rust.svg" height="30" alt="rust logo" title="Rust" />
   <img width="12" />
-  <img src="./bash.svg" height="30" alt="bash logo" title="Bash Scripting" />
-  <img width="12" />
   <img src="./javascript.svg" height="30" alt="javascript logo" title="JavaScript" />
   <img width="12" />
   <img src="./typescript.svg" height="30" alt="typescript logo" title="TypeScript" />
   <img width="12" />
-  <img src="./python.svg" height="30" alt="python logo" title="Python" />
+  <img src="./bash.svg" height="30" alt="bash logo" title="Bash Scripting" />
   <img width="12" />
 </div>
 
@@ -38,8 +36,6 @@
   <img src="./nvim.svg" height="30" alt="nvim logo" title="NeoVim" />
   <img width="12" />
   <img src="./git.svg" height="30" alt="git logo" title="Git" />
-  <img width="12" />
-  <img src="./bash.svg" height="30" alt="bash logo" title="Bash" />
   <img width="12" />
   <img src="./apache.svg" height="30" alt="apache logo" title="Apache" />
   <img width="12" />
